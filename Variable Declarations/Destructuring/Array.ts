@@ -6,6 +6,10 @@ console.log(`
 Fruit1: ${fruit1}
 Fruit2: ${fruit2}
 `)
+/*
+Fruit1: Banana
+Fruit2: Apple
+*/
 
 console.log('-----Swap Variable-----')
 
@@ -15,3 +19,7 @@ console.log(`
 New Fruit1: ${newFruit1}
 New Fruit2: ${newFruit2}
 `)
+/*
+New Fruit1: Apple
+New Fruit2: Banana
+*/
