@@ -1,5 +1,5 @@
 console.log('-----Array Destructuring-----')
-let fruits = ['Banana', 'Apple'];
+let fruits: Array<string> = ['Banana', 'Apple'];
 let [fruit1, fruit2] = fruits;
 
 console.log(`
