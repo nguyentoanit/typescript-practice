@@ -6,6 +6,6 @@ var getFirstName = (firstName: string): string => {
     return firstName;
 }
 
-let getFullName = getInformation(getFirstName)
+let getName = getInformation(getFirstName)
 
-console.log(getFullName('Toan', 'Nguyen')); // Output: Toan
+console.log(getName('Toan', 'Nguyen')); // Output: Toan
