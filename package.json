@@ -1,0 +1,23 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "Practice in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyentoanit/typescript-practice.git"
+  },
+  "author": "Toan Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyentoanit/typescript-practice/issues"
+  },
+  "homepage": "https://github.com/nguyentoanit/typescript-practice#readme",
+  "dependencies": {
+    "fp-ts": "^2.0.5",
+    "io-ts": "^2.0.1"
+  }
+}
